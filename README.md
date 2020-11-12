@@ -1,19 +1,19 @@
-# ExercicioPetShop
+# Exercício Pet Shop - Desafio Javascript I
 
-Tema: Sistema PetShop
-Tecnologia: Javascript
+- Tema: Sistema PetShop
+- Tecnologia: Javascript
 O desafio consiste na criação de um sistema para atender o gerenciamento de um petshp. Serão desenvolvidas funções como cadastro de pets, vacinação e castração.
 
 O sistema deverá ser elaborado utilizando a linguagem Javascript, se atentando aos padrões de desenvolvimento como, por exemplo, a utilização do camelCase. Todos os prints ou exibições deverão acontecer diretamente no console.
 
-Forma de entrega
+### Forma de entrega
 Você deverá fazer um fork desse projeto, e fazer o desenvolvimento dentro do mesmo. Após isso, deverá enviar para o professor o link do SEU repositório através do Slack.
 
 Para mais informações de como fazer um fork: http://gabsferreira.com/forkando-e-clonando-um-repositorio-no-github
 
 Além disso, esse exercício deverá ser feito de forma individual poderemos avaliar sua evolução no curso, e proporcionar a você uma auto-avaliação.
 
-O que deverá ser desenvolvido?
+### O que deverá ser desenvolvido?
 Dentro do arquivo petshop.js desse repositório, há uma lista de pets. Em nosso sistema, um pet é descrito com as seguintes informações:
 
 - Nome - String
@@ -57,4 +57,8 @@ function listarPets() {
  Vale dizer que As informações deverão ser exibidas em um formato amigável.*/
 }
    ```
+### Links utéis
+   - [Documentação JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+   - [Dicas de Map, Filter e Reduce](https://desenvolvimentoparaweb.com/javascript/map-filter-reduce-javascript/)
+   - [Objetos Literais JS](https://tableless.com.br/javascript-objetos-literais-vs-funcoes-construtoras/)
 
